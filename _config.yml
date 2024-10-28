@@ -112,7 +112,6 @@ content:
             - UniTask를 사용해보면서 기존에 코루틴으로 작업했던 부분들의 비용감소와 가독성을 개선
             - 조작감 개선 및 튜토리얼 폴리시, 애니메이션 개선의 반복 등을 통해 D1 테스트 시 유저 이탈율 개선
 
-    content:
       - layout: left
         title: Goose Valley
         link: https://youtu.be/QMTon52vfA4?si=MwfZnzlZr6B3J8uA
@@ -127,7 +126,6 @@ content:
             - NavMeshAgent와 타일맵을 활용하여 8방향 이동 및 길찾기 시스템을 구현
             - UniRx와 옵저버 패턴을 위주로 활용하여 손님의 주문 및 판매 등의 게임 플레이 시스템 개발
 
-    content:
       - layout: left
         title: Pig Pioneer
         link: https://youtu.be/wrRsG4RdSOo?si=11yKHpqElESl3_MZ
